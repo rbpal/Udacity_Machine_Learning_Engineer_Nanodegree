@@ -1,5 +1,3 @@
-# Udacity_Machine_Learning_Engineer_Nanodegree
-Udacity 
 
 # Udacity Machine Learning Engineer Nanodegree - Projects
 ## Term One
